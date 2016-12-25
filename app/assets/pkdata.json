@@ -1,0 +1,124 @@
+[
+    {
+	"id": 1,
+	"generation": 1,
+	"name": {
+	    "de": "Bisasam",
+	    "en": "Bulbasaur",
+	    "es": "Bulbasaur",
+	    "fr": "Bulbizarre",
+	    "it": "Bulbasaur",
+	    "jp": "フシギダネ",
+	    "jp-rm": "Fushigidane",
+	    "ko": "이상해씨",
+	    "ko-rm": "Isanghessi",
+	    "zh": "妙蛙種子",
+	    "zh-rm": "Miàowāzhǒngzǐ",
+	    "zh-tw": "妙蛙种子"
+	},
+	"height": {
+	    "inFeet": "2'04\"",
+	    "inMeters": "0.7",
+	}
+	"weight": {
+	    "inPounds": "15.2",
+	    "inKilograms": "6.9",
+	}
+	"genderRatio": 1,
+	"catchRate": 45,
+	"baseExperience": 64,
+	"baseFriendship": 70,
+	"levelingRate": "mediumSlow",
+	"eggCycles": 20,
+	"eggGroups": [
+	    "monster",
+	    "grass"
+	],
+	"types": [
+	    "grass",
+	    "poison"
+	],
+	"abilities": [
+	    {
+		"name": "overgrow",
+		"hidden": false
+	    },
+	    {
+		"name": "chlorophyll",
+		"hidden": true
+	    }
+	],
+	"baseStats": {
+	    "hp": 45,
+	    "atk": 49,
+	    "def": 49,
+	    "spAtk": 65,
+	    "spDef": 65,
+	    "spd": 45,
+	},
+	"evolution": [
+	    {
+		"atLevel": 16
+		"evolvesTo": 2
+	    }
+	],
+	"learnset": [
+	    {
+		"method": { "atLevel": 1 },
+		"move": "tackle"
+	    },
+	    {
+		"method": { "atLevel": 3 },
+		"move": "growl"
+	    },
+	    {
+		"method": { "atLevel": 7 },
+		"move": "vineWhip"
+	    },
+	    {
+		"method": { "atLevel": 9 },
+		"move": "vineWhip"
+	    },
+	    {
+		"method": { "atLevel": 13 },
+		"move": "poisonPowder"
+	    },
+	    {
+		"method": { "atLevel": 13 },
+		"move": "sleepPowder"
+	    },
+	    {
+		"method": { "atLevel": 15 },
+		"move": "takeDown"
+	    },
+	    {
+		"method": { "atLevel": 19 },
+		"move": "razorLeaf"
+	    },
+	    {
+		"method": { "atLevel": 21 },
+		"move": "sweetScent"
+	    },
+	    {
+		"method": { "atLevel": 25 },
+		"move": "growth"
+	    },
+	    {
+		"method": { "atLevel": 27 },
+		"move": "double-edge"
+	    }
+	    {
+		"method": { "atLevel": 31 },
+		"move": "worrySeed"
+	    },
+	    {
+		"method": { "atLevel": 33 },
+		"move": "synthesis"
+	    },
+	    {
+		"method": { "atLevel": 37 },
+		"move": "seedBomb"
+	    }
+	]
+    }
+]
